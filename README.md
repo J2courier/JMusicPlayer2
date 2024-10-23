@@ -4,4 +4,8 @@
 2. second just run it in [netBeans](https://netbeans.apache.org/front/main/download/nb22/) or [vsCode](https://code.visualstudio.com/download)
 3. **You're Good to go!**
 
- 
+- **FULL DOCUMENTATION**
+- Is still **TBU**
+- All amterials and sources are there, happy coding and learn about the app I Created!
+
+- **CAN YOU GIVE ME ONE STAR⭐?**

@@ -5,7 +5,6 @@
 3. **You're Good to go!**
 
 - **FULL DOCUMENTATION**
-- Is still **TBU**
-- All amterials and sources are there, happy coding and learn about the app I Created!
-
-- **CAN YOU GIVE ME ONE STAR⭐?**
+Is still **TBU**
+All amterials and sources are there, happy coding and learn about the app I Created!
+**CAN YOU GIVE ME ONE STAR⭐?**
